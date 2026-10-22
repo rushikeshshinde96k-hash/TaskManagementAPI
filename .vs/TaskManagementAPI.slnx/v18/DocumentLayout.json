@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\email\\emailsenders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\email\\emailsenders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.application\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B11B0-AF0C-3CC8-E62B-F803EDE8CFF3}|TaskManagement.Tests\\TaskManagement.Tests.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.tests\\unit\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B11B0-AF0C-3CC8-E62B-F803EDE8CFF3}|TaskManagement.Tests\\TaskManagement.Tests.csproj|solutionrelative:taskmanagement.tests\\unit\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B11B0-AF0C-3CC8-E62B-F803EDE8CFF3}|TaskManagement.Tests\\TaskManagement.Tests.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.tests\\unit\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B11B0-AF0C-3CC8-E62B-F803EDE8CFF3}|TaskManagement.Tests\\TaskManagement.Tests.csproj|solutionrelative:taskmanagement.tests\\unit\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.infrastructure\\repositories\\otherrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD0055B-4AAD-E775-F478-625EC62D13B8}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\repositories\\otherrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857DDF1-C783-E658-E035-3AE0E8575715}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B576B31-CCDE-4CDD-B7BE-179A3E244F59}|TaskManagement.Domain\\TaskManagement.Domain.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B576B31-CCDE-4CDD-B7BE-179A3E244F59}|TaskManagement.Domain\\TaskManagement.Domain.csproj|solutionrelative:taskmanagement.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B576B31-CCDE-4CDD-B7BE-179A3E244F59}|TaskManagement.Domain\\TaskManagement.Domain.csproj|c:\\users\\gitanjali\\onedrive\\desktop\\task-management\\taskmanagementapi\\taskmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B576B31-CCDE-4CDD-B7BE-179A3E244F59}|TaskManagement.Domain\\TaskManagement.Domain.csproj|solutionrelative:taskmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Tests\\Unit\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\Unit\\TaskServiceTests.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Tests\\Unit\\TaskServiceTests.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\Unit\\TaskServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:02:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Tests\\Unit\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\Unit\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Tests\\Unit\\AuthServiceTests.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\Unit\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:01:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSenders.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Email\\EmailSenders.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Email\\EmailSenders.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Email\\EmailSenders.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Email\\EmailSenders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:00:13.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:59:53.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:58:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:57:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:57:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\Mappings\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\Mappings\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\Mappings\\MappingExtensions.cs",
+              "RelativeToolTip": "TaskManagement.Application\\Mappings\\MappingExtensions.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowEcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:06:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManagement.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowE4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T03:37:12.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OtherRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\OtherRepositories.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\OtherRepositories.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure\\Repositories\\OtherRepositories.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\OtherRepositories.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T12:57:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T03:40:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T05:01:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:18:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "TaskManagement.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T03:38:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json",
+              "RelativeToolTip": "TaskManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T03:34:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "TaskManagement.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T03:23:39.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

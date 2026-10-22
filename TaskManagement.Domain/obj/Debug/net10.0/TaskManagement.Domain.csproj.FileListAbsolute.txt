@@ -1,0 +1,12 @@
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.deps.json
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.pdb
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\refint\TaskManagement.Domain.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.pdb
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\ref\TaskManagement.Domain.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Domain\obj\Debug\net10.0\TaskMana.8350F454.Up2Date

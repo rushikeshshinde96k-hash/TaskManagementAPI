@@ -1,0 +1,15 @@
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.deps.json
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Application.pdb
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Domain.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\bin\Debug\net10.0\TaskManagement.Domain.pdb
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.AssemblyInfo.cs
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskMana.B5C26166.Up2Date
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\refint\TaskManagement.Application.dll
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.pdb
+C:\Users\Gitanjali\OneDrive\Desktop\Task-Management\TaskManagementAPI\TaskManagement.Application\obj\Debug\net10.0\ref\TaskManagement.Application.dll

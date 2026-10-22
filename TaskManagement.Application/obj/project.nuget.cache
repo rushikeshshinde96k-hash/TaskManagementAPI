@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBL5rpFbusQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application\\TaskManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gitanjali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.13\\microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\Gitanjali\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.13\\microsoft.extensions.logging.abstractions.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

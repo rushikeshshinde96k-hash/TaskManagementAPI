@@ -1,0 +1,6 @@
+{
+  "TaskManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Application",
+  "TaskManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Domain",
+  "TaskManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagement.Infrastructure",
+  "TaskManagementAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gitanjali\\OneDrive\\Desktop\\Task-Management\\TaskManagementAPI\\TaskManagementAPI"
+}
