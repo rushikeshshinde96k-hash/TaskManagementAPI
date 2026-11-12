@@ -49,7 +49,9 @@ public sealed class UserService : IUserService
     /// Admin: every active Manager/User (optionally limited to a team).
     /// Manager: members of the teams they manage, plus themselves.
     /// </summary>
-    public async Task<IReadOnlyList<UserDto>> GetAssignableAsync(int? teamId, CancellationToken ct = default)
+    public async Task<IReadOnlyList<UserDto>> 
+        
+        GetAssignableAsync(int? teamId, CancellationToken ct = default)
     {
         if (_current.Role == UserRole.User)
             throw new ForbiddenException();
